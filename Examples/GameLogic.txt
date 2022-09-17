@@ -1,10 +1,10 @@
-﻿===============================
-TETRIS CLONE IN TRINGLE ENGINE
+﻿=========================================
+TETRINGLE (TETRIS CLONE) IN TRINGLE ENGINE
 AIDAN KIRWIN, 2022
-===============================
+==========================================
 
-Game itself is a 10x20 grid; store grid in a 10x20 array. 
-The game window is set to 450x750, such that each square in the grid (array) is 30x30 pixels.
+Game information is stored in two 10x20 arrays (one stores all placed blocks and the current position of the falling block, the other contains only placed blocks). 
+The game window is set to 300x600, such that each square in the grid (array) is 30x30 pixels.
 
 There are 7 tetris shapes (tetriminoes):
 
