@@ -23,25 +23,6 @@ A C# and OpenTK game engine (currently under development).
 <li>AABB component for use in rigidbody physics</li>
 </ol>
 
-<h2>Features in development</h2>
-
-<ol>
-<li>Text</li>
-<li>Audio</li>
-<li>Complete (rigidbody) physics system</li>
-</ol>
-
-<h2>Future features/plans (hopes)</h2>
-
-These are overly ambitious plans for the long-term development of Tringle.
-
-<ol>
-<li>Add support for other graphics specifications, specifically Vulkan and DirectX (this would require rewriting the core codebase in C++)</li>
-<li>Deferred rendering and shadows</li>
-<li>Fluid and soft body physics</li>
-<li>Web/iOS/Android</li>
-</ol>
-
 <h2>Examples</h2>
 
 The examples folder contains the game files for a version of Tetris, Tetringle, that I created. I intend to add more examples in the future to showcase the features of the Tringle game engine.
@@ -63,3 +44,22 @@ Figure 2: Paused
 Figure 3: Game over
 
 <img width="412" alt="gameover" src="https://user-images.githubusercontent.com/105574500/190833310-57f99ff5-ebb4-4df1-8723-7a64529b3792.png">
+
+<h2>Features in development</h2>
+
+<ol>
+<li>Text</li>
+<li>Audio</li>
+<li>Complete (rigidbody) physics system</li>
+</ol>
+
+<h2>Future features/plans (hopes)</h2>
+
+These are overly ambitious plans for the long-term development of Tringle.
+
+<ol>
+<li>Add support for other graphics specifications, specifically Vulkan and DirectX (this would require rewriting the core codebase in C++)</li>
+<li>Deferred rendering and shadows</li>
+<li>Fluid and soft body physics</li>
+<li>Web/iOS/Android</li>
+</ol>
