@@ -17,10 +17,10 @@ A C# and OpenTK game engine (currently under development).
 <ol>
 <li>Easy mesh and sprite rendering</li>
 <li>Easily implement multiple cameras using the CameraManager class</li>
-<li>Built in texture atlas reader</li>
+<li>Easily use a texture atlas with your meshes using the TextureAtlas class</li>
 <li>Easy texture/shader loading and indexing</li>
 <li>Basic entity component system (ECS)</li>
-<li>AABB component for use in RigidBody physics</li>
+<li>AABB component for use in rigidbody physics</li>
 </ol>
 
 <h2>Features in development</h2>
@@ -28,7 +28,7 @@ A C# and OpenTK game engine (currently under development).
 <ol>
 <li>Text</li>
 <li>Audio</li>
-<li>Complete physics system</li>
+<li>Complete (rigidbody) physics system</li>
 </ol>
 
 <h2>Future features/plans (hopes)</h2>
