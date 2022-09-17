@@ -30,6 +30,7 @@ Tetringle uses the Nintendo Rotation System (used in the NES version). Lines cle
 
 Use the right and left arrow to move horizontally.
 Use the up arrow to rotate.
+Use the space bar to pause the game.
 
 <h3>Screenshots</h3>
 
