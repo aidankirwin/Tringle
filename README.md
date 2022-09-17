@@ -14,19 +14,19 @@ A C# and OpenTK game engine (currently under development).
 
 <h2>Features</h2>
 
-<ol>
+<ul>
 <li>Easy mesh and sprite rendering</li>
 <li>Easily implement multiple cameras using the CameraManager class</li>
 <li>Easily use a texture atlas with your meshes using the TextureAtlas class</li>
 <li>Easy texture/shader loading and indexing</li>
 <li>Basic entity component system (ECS)</li>
 <li>AABB component for use in rigidbody physics</li>
-</ol>
+</ul>
 
 <h2>Examples</h2>
 
 The examples folder contains the game files for a version of Tetris, Tetringle, that I created. I intend to add more examples in the future to showcase the features of the Tringle game engine.
-Tetringle uses the original right-hand rotation system (used in the NES version). Lines clear when a full line is achieved. If a piece is both grounded and above the height-limit, the game ends.
+Tetringle uses the Nintendo Rotation System (used in the NES version). Lines clear when a full line is achieved. If a piece is both grounded and extends above the game window, the game ends.
 
 Use the right and left arrow to move horizontally.
 Use the up arrow to rotate.
@@ -47,19 +47,19 @@ Figure 3: Game over
 
 <h2>Features in development</h2>
 
-<ol>
+<ul>
 <li>Text</li>
 <li>Audio</li>
 <li>Complete (rigidbody) physics system</li>
-</ol>
+</ul>
 
 <h2>Future features/plans (hopes)</h2>
 
 These are overly ambitious plans for the long-term development of Tringle.
 
-<ol>
+<ul>
 <li>Add support for other graphics specifications, specifically Vulkan and DirectX (this would require rewriting the core codebase in C++)</li>
 <li>Deferred rendering and shadows</li>
 <li>Fluid and soft body physics</li>
 <li>Web/iOS/Android</li>
-</ol>
+</ul>
